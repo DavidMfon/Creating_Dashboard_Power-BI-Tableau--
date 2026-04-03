@@ -12,16 +12,16 @@ This repository contains two data analytics projects focused on deriving insight
 ‎Survey data collected via LinkedIn, X, and other platforms
 ‎Public Netflix dataset
 
-‎## Tools
+## Tools
 
-‎- Power BI (Power Query, Dashboarding)
+- Power BI (Power Query, Dashboarding)
 
-‎- Tableau (Visualization & Mapping)
+- Tableau (Visualization & Mapping)
 
-‎## Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
-‎- Removed blank columns
+- Removed blank columns
 
-‎- Split and formatted columns using delimiters
+- Split and formatted columns using delimiters
 
-‎- Standardized data for analysis
+- Standardized data for analysis
