@@ -13,9 +13,15 @@ This repository contains two data analytics projects focused on deriving insight
 ‎Public Netflix dataset
 
 ‎## Tools
-‎Power BI (Power Query, Dashboarding)
-‎Tableau (Visualization & Mapping)
-‎5. Data Cleaning & Preparation
-‎Removed blank columns
-‎Split and formatted columns using delimiters
-‎Standardized data for analysis
+
+‎- Power BI (Power Query, Dashboarding)
+
+‎- Tableau (Visualization & Mapping)
+
+‎## Data Cleaning & Preparation
+
+‎- Removed blank columns
+
+‎- Split and formatted columns using delimiters
+
+‎- Standardized data for analysis
