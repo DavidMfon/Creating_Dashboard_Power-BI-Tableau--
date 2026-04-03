@@ -45,6 +45,9 @@ This repository contains two data analytics projects focused on deriving insight
 
 [Download Here](https://photos.app.goo.gl/bP4Xsk2JyT6EbaSr6) 
 
+![Power BI project 1 Screenshot](https://github.com/user-attachments/assets/b169c3fb-a1a6-4f4b-b639-8f7a706d09a9)
+
+
 
 ### Tableau Dashboard
 
