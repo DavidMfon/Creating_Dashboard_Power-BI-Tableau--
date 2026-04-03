@@ -25,3 +25,29 @@ This repository contains two data analytics projects focused on deriving insight
 - Split and formatted columns using delimiters
 
 - Standardized data for analysis
+
+
+## Data Analysis
+
+### Power BI Dashboard
+
+- Average Salary by Job Title
+
+- Most Used Programming Languages
+
+- Country-Based Salary Insights
+
+- Work-Life Balance (Gauge Chart)
+
+- Gender Salary Comparison
+
+### Dashboard Preview
+
+[Download Here](https://photos.app.goo.gl/bP4Xsk2JyT6EbaSr6) 
+
+
+‎Tableau Dashboard
+‎Content Trends Over Time
+‎Country Distribution Map
+‎Top 10 Genres
+‎Ratings & Content Type Analysis
