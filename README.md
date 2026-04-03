@@ -56,3 +56,30 @@ This repository contains two data analytics projects focused on deriving insight
 
 - Ratings & Content Type Analysis
 
+[Download Here](https://photos.app.goo.gl/L59JHq56MfM1SaKv9) 
+
+## Key Findings
+
+- Salary varies by role and location
+
+‎- Certain programming languages dominate the industry
+
+‎- Work-life balance differs across professionals
+
+‎- Female respondents showed slightly higher average salaries
+
+‎- Netflix content is concentrated in specific regions
+
+‎- Drama is one of the most popular genres
+
+‎
+‎## Recommendations
+‎
+
+- Focus on in-demand tech skills
+
+‎- Improve work-life balance policies
+
+‎- Expand content diversity across regions
+
+
