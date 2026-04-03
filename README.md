@@ -61,6 +61,9 @@ This repository contains two data analytics projects focused on deriving insight
 
 [Download Here](https://photos.app.goo.gl/L59JHq56MfM1SaKv9) 
 
+![Netflix tableau project screenshot](https://github.com/user-attachments/assets/08715209-d509-4fde-8382-f5541a4a062f)
+
+
 ## Key Findings
 
 - Salary varies by role and location
