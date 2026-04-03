@@ -46,8 +46,13 @@ This repository contains two data analytics projects focused on deriving insight
 [Download Here](https://photos.app.goo.gl/bP4Xsk2JyT6EbaSr6) 
 
 
-‎Tableau Dashboard
-‎Content Trends Over Time
-‎Country Distribution Map
-‎Top 10 Genres
-‎Ratings & Content Type Analysis
+### Tableau Dashboard
+
+- Content Trends Over Time
+
+- Country Distribution Map
+
+- Top 10 Genres
+
+- Ratings & Content Type Analysis
+
